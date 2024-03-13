@@ -1,23 +1,40 @@
-{"id": "eTUblAkHyYzZTCnFlxFY", "age": 23, "gender": "female", "degree": "master's", "ethnicity": "korean", "major": "computer science"}
-{"id": "AaLGjEIKy6iq2zP0sydV", "age": 19, "gender": "male", "degree": "undergraduate", "ethnicity": "korean", "major": "no major declared"}
-{"id": "ZujHO6atKC551vnHVbQi", "age": 27, "gender": "male", "degree": "ph.d.", "ethnicity": "korean", "major": "computer science"}
-{"id": "PDDQI480iE7RoN5jgwFQ", "age": 26, "gender": "male", "degree": "undergraduate", "ethnicity": "korean", "major": "computer science"}
-{"id": "ZB8WtEehnd5TSwQyM6CV", "age": 24, "gender": "male", "degree": "undergraduate", "ethnicity": "korean", "major": "bio and brain engineering"}
-{"id": "Dyg5v1Zsw7iQiAMurq4B", "age": 21, "gender": "female", "degree": "undergraduate", "ethnicity": "korean", "major": "electrical engineering"}
-{"id": "YKSSKlg2COmgdE0Fib5x", "age": 20, "gender": "male", "degree": "undergraduate", "ethnicity": "korean", "major": "mechanical engineering"}
-{"id": "4qMRKjGjoD0RPXXjbneM", "age": 22, "gender": "male", "degree": "undergraduate", "ethnicity": "korean", "major": "computer science"}
-{"id": "388WLpbC7tIb4vKzrYJA", "age": 22, "gender": "male", "degree": "undergraduate", "ethnicity": "korean", "major": "industrial and systems engineering"}
-{"id": "oU6URSEQQvR0gf1BGqAz", "age": 35, "gender": "male", "degree": "undergraduate", "ethnicity": "korean", "major": "computer science"}
-{"id": "LX3x1OAtVXJDc7n1U8F6", "age": 18, "gender": "male", "degree": "undergraduate", "ethnicity": "korean", "major": "no major declared"}
-{"id": "52boJw5n09IRu7jwwILJ", "age": 29, "gender": "female", "degree": "ph.d.", "ethnicity": "korean", "major": "bio and brain engineering"}
-{"id": "zrDcR6pVSo45PYuzu205", "age": 36, "gender": "male", "degree": "ph.d.", "ethnicity": "korean", "major": "mechanical engineering"}
-{"id": "CAjyAijZCclYAPhSuCLB", "age": 28, "gender": "male", "degree": "master's", "ethnicity": "korean", "major": "computer science"}
-{"id": "0iJKGXRhmKutywZRxGcZ", "age": 23, "gender": "female", "degree": "undergraduate", "ethnicity": "korean", "major": "elementary education"}
-{"id": "6jMadiiAadoNkjnyBKh3", "age": 27, "gender": "male", "degree": "master's", "ethnicity": "korean", "major": "industrial and systems engineering"}
-{"id": "TVjN52vtj24NYV9bKRJo", "age": 22, "gender": "female", "degree": "undergraduate", "ethnicity": "korean", "major": "computer science"}
-{"id": "BKi3T2RDRyj8lYD1ZDPu", "age": 19, "gender": "unspecified", "degree": "undergraduate", "ethnicity": "korean", "major": "brain and cognitive sciences"}
-{"id": "Kd9sgE66pFgI9zhVtMHC", "age": 24, "gender": "female", "degree": "master's", "ethnicity": "korean", "major": "industrial design"}
-{"id": "RnTf51Tm6CZEmV29ZOaI", "age": 25, "gender": "female", "degree": "master's", "ethnicity": "korean", "major": "media communication"}
-{"id": "BzY6KoOUxMXPKF8i3Ccq", "age": 24, "gender": "female", "degree": "undergraduate", "ethnicity": "korean", "major": ["political science and diplomacy", "information and science and culture studies"]}
-{"id": "kQeNGlQRlDmMhDPnDdyh", "age": 28, "gender": "male", "degree": "undergraduate", "ethnicity": "korean", "major": ["psychology", "information and science and culture studies"]}
-{"id": "c3Bu3UIeUTPFMAYq8Fo3", "age": 25, "gender": "female", "degree": "master's", "ethnicity": "korean", "major": "computer science"}
+{"id": "F74gJEFmG1vAk8OCZH78", "age": 23, "gender": "male", "degree": "undergraduate", "major": "mechanical engineering", "ethnicity": "Korean"}
+{"id": "HkF1YnYt1iAViOeMc114", "age": 24, "gender": "male", "degree": "undergraduate", "major": "computer science", "ethnicity": "Korean"}
+{"id": "MMQ9bffWgcfssXSK2pZJ", "age": 25, "gender": "female", "degree": "master's", "major": "electrical engineering", "ethnicity": "Korean"}
+{"id": "dWPQEKTZBPkFmlihwbsN", "age": 24, "gender": "female", "degree": "ph.d.", "major": "chemical and biomolecular engineering", "ethnicity": "Korean"}
+{"id": "ZB8WtEehnd5TSwQyM6CV", "age": 24, "gender": "male", "degree": "undergraduate", "major": "bio and brain engineering", "ethnicity": "Korean"}
+{"id": "YKSSKlg2COmgdE0Fib5x", "age": 20, "gender": "male", "degree": "undergraduate", "major": "mechanical engineering", "ethnicity": "Korean"}
+{"id": "4qMRKjGjoD0RPXXjbneM", "age": 22, "gender": "male", "degree": "undergraduate", "major": "computer science", "ethnicity": "Korean"}
+{"id": "0JkfJax96B1bYGkrM70K", "age": 20, "gender": "female", "degree": "undergraduate", "major": "computer science", "ethnicity": "Korean"}
+{"id": "KwSXVCzTgTEc4vEKkvRp", "age": 25, "gender": "male", "degree": "ph.d.", "major": "biology", "ethnicity": "Korean"}
+{"id": "ZujHO6atKC551vnHVbQi", "age": 27, "gender": "male", "degree": "ph.d.", "major": "computer science", "ethnicity": "Korean"}
+{"id": "Dyg5v1Zsw7iQiAMurq4B", "age": 21, "gender": "female", "degree": "undergraduate", "major": "electrical engineering", "ethnicity": "Korean"}
+{"id": "0iJKGXRhmKutywZRxGcZ", "age": 23, "gender": "female", "degree": "undergraduate", "major": "elementary educatiom", "ethnicity": "Korean"}
+{"id": "6jMadiiAadoNkjnyBKh3", "age": 27, "gender": "male", "degree": "master's", "major": "industrial and systems engineering", "ethnicity": "Korean"}
+{"id": "oZkFvsNn9tAruwk2MXFJ", "age": 24, "gender": "male", "degree": "master's", "major": "industrial and systems engineering", "ethnicity": "Korean"}
+{"id": "CAjyAijZCclYAPhSuCLB", "age": 28, "gender": "male", "degree": "master's", "major": "computer science", "ethnicity": "Korean"}
+{"id": "388WLpbC7tIb4vKzrYJA", "age": 22, "gender": "male", "degree": "undergraduate", "major": "industrial and systems engineering", "ethnicity": "Korean"}
+{"id": "TVjN52vtj24NYV9bKRJo", "age": 22, "gender": "female", "degree": "undergraduate", "major": "computer science", "ethnicity": "Korean"}
+{"id": "Kd9sgE66pFgI9zhVtMHC", "age": 24, "gender": "female", "degree": "master's", "major": "industrial design", "ethnicity": "Korean"}
+{"id": "c3Bu3UIeUTPFMAYq8Fo3", "age": 25, "gender": "female", "degree": "master's", "major": "computer science", "ethnicity": "Korean"}
+{"id": "kQeNGlQRlDmMhDPnDdyh", "age": 28, "gender": "male", "degree": "undergraduate", "major": "psychology", "ethnicity": "Korean"}
+{"id": "PDDQI480iE7RoN5jgwFQ", "age": 26, "gender": "male", "degree": "undergraduate", "major": "computer science", "ethnicity": "Korean"}
+{"id": "mrB1vB73Ul7gpA6gEoH6", "age": 21, "gender": "female", "degree": "undergraduate", "major": "chemistry", "ethnicity": "Korean"}
+{"id": "INeqDmN1iVHrMk7oAeNR", "age": 24, "gender": "male", "degree": "undergraduate", "major": "biology", "ethnicity": "Korean"}
+{"id": "kifz1laddRQgd6im3x6l", "age": 22, "gender": "male", "degree": "undergraduate", "major": "chemistry", "ethnicity": "Korean"}
+{"id": "KHMrNjJFg1d26L6vfpg6", "age": 19, "gender": "male", "degree": "undergraduate", "major": "semiconductor systems engineering", "ethnicity": "Korean"}
+{"id": "eMakrBfsKzDqNDG26wmz", "age": 22, "gender": "female", "degree": "undergraduate", "major": "electrical engineering ", "ethnicity": "Korean"}
+{"id": "InYZHh4Gl2Pqj8Tsxndv", "age": 31, "gender": "male", "degree": "ph.d.", "major": "mechanical engineering", "ethnicity": "Korean"}
+{"id": "a4pkh7RE5CnlOB8HD1qH", "age": 21, "gender": "female", "degree": "undergraduate", "major": "electrical engineering", "ethnicity": "Korean"}
+{"id": "1QkLgKPGuVExgkbPqXxj", "age": 23, "gender": "male", "degree": "undergraduate", "major": "computer science", "ethnicity": "Korean"}
+{"id": "LX3x1OAtVXJDc7n1U8F6", "age": 18, "gender": "male", "degree": "undergraduate", "major": "undecided", "ethnicity": "Korean"}
+{"id": "AaLGjEIKy6iq2zP0sydV", "age": 19, "gender": "male", "degree": "undergraduate", "major": "undecided", "ethnicity": "Korean"}
+{"id": "lc0EzHcxHnDJZOSBOaKI", "age": 23, "gender": "male", "degree": "undergraduate", "major": "bio and brain engineering", "ethnicity": "Korean"}
+{"id": "oU6URSEQQvR0gf1BGqAz", "age": 35, "gender": "male", "degree": "undergraduate", "major": "computer science", "ethnicity": "Korean"}
+{"id": "zrDcR6pVSo45PYuzu205", "age": 36, "gender": "male", "degree": "ph.d.", "major": "mechanical engineering", "ethnicity": "Korean"}
+{"id": "52boJw5n09IRu7jwwILJ", "age": 29, "gender": "female", "degree": "ph.d.", "major": "bio and brain engineering", "ethnicity": "Korean"}
+{"id": "DpbsJKWc7xCOnHbA4AMs", "age": 30, "gender": "male", "degree": "ph.d.", "major": "bio and brain engineering ", "ethnicity": "Korean"}
+{"id": "mhA030jjUFPLihkTIz36", "age": 24, "gender": "female", "degree": "master's", "major": "culture technology", "ethnicity": "Korean"}
+{"id": "BKi3T2RDRyj8lYD1ZDPu", "age": 19, "gender": "prefer not to answer", "degree": "undergraduate", "major": "brain and cognitive engineering", "ethnicity": "Korean"}
+{"id": "sG0Jg0wy12zSCIOeq18C", "age": 23, "gender": "male", "degree": "undergraduate", "major": "electrical engineering", "ethnicity": "Korean"}
+{"id": "BzY6KoOUxMXPKF8i3Ccq", "age": 24, "gender": "female", "degree": "undergraduate", "major": "political science and diplomacy", "ethnicity": "Korean"}
